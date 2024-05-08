@@ -1,4 +1,4 @@
-# CSVTrimmer
+# CSV Trimmer
 
 ## Google Colab
 
